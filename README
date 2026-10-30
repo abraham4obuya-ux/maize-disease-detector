@@ -1,0 +1,20 @@
+# My First AI - by Abraham Linkon 🇰🇪
+Kenyan high school student from Moi's Bridge, building AI to help farmers with just a phone.
+
+### 🎯 Mission
+Build a phone-based model to detect maize diseases (MSV & MLN) early for smallholder farmers in Rift Valley.
+
+### 🔧 What I'm Building
+- Collecting maize leaf images around Moi's Bridge
+- Training model with Teachable Machine + Colab
+- Goal: 90%+ accuracy, works offline on phone
+
+### 🛠️ Tools
+- Phone, GitHub, Python, TensorFlow, Colab
+
+### 📍 About Me
+- Location: Moi's Bridge, Kenya
+- Goal: Learn AI, apply to agriculture, aim for MIT EECS
+- Contact: github.com/abraham4obuya-ux
+
+> "Building with what I have — just a phone and data."
